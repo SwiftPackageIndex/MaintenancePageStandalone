@@ -1,4 +1,4 @@
-# Swift Package Index — Maintenance Page
+# Swift Package Index – Maintenance Page
 
 A standalone holding page for swiftpackageindex.com, with no dependencies on the main site.
 

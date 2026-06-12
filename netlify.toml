@@ -1,0 +1,6 @@
+# Serve the maintenance page for every URL, not just /. Not forced, so the
+# page's own assets (styles.css, eta.js, logo.svg) still serve directly.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
